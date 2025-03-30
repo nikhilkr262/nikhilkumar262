@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Nikhil Kumar
 
 🚀 **Backend Developer | Spring Boot | SQL | AWS**
 
